@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T14:35:22.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 OPR/76.0.4017.123" etag="35-NxquoDVSapRBH9KZR" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T14:40:51.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 OPR/76.0.4017.123" etag="-qmPjukI3BvXg68a7vyQ" version="14.7.2" type="github">
   <diagram id="ETpKzcIFAHfdthtnlMlX" name="Page-1">
-    <mxGraphModel dx="1038" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,7 +409,7 @@
             <mxPoint x="230" y="349.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GnsKJzCHCHCNSngTRta8-141" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.022;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;startArrow=cross;startFill=0;" parent="1" target="GnsKJzCHCHCNSngTRta8-8" edge="1">
+        <mxCell id="GnsKJzCHCHCNSngTRta8-141" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;startArrow=cross;startFill=0;" parent="1" target="GnsKJzCHCHCNSngTRta8-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="168.81999999999994" as="sourcePoint" />
             <mxPoint x="320" y="169" as="targetPoint" />
@@ -421,14 +421,11 @@
             <mxPoint x="950" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GnsKJzCHCHCNSngTRta8-145" value="" style="endArrow=cross;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=cross;startFill=0;endFill=0;exitX=1.017;exitY=0.767;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="GnsKJzCHCHCNSngTRta8-97" edge="1" source="GnsKJzCHCHCNSngTRta8-33">
+        <mxCell id="GnsKJzCHCHCNSngTRta8-145" value="" style="endArrow=cross;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=cross;startFill=0;endFill=0;exitX=1.012;exitY=0.153;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GnsKJzCHCHCNSngTRta8-33" target="GnsKJzCHCHCNSngTRta8-97" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810" y="290" as="sourcePoint" />
             <mxPoint x="1030" y="360" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="GnsKJzCHCHCNSngTRta8-150" value="id_ambulanta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="270" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
